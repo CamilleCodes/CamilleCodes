@@ -5,17 +5,20 @@ Computer Scientist and Software Engineer
 
 #### Languages & Frameworks
 
-<img src="https://img.shields.io/badge/-Golang-blue?style=flat&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-success?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-TypeScript-orange?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-red?style=flat&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-yellow?style=flat&logo=oracle&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Golang-blue?style=flat&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-success?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-TypeScript-orange?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-red?style=flat&logo=cplusplus&logoColor=white" /> 
 
 <!---
 Java
+<img src="https://img.shields.io/badge/-Java-yellow?style=flat&logo=oracle&logoColor=white" /> 
 FCCB00
 oracle
 --->
 
-<img src="https://img.shields.io/badge/-React-42B883?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/-Vue-42B883?style=flat&logo=Vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Next.js-42B883?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Django-42B883?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/-Angular-42B883?style=flat&logo=angular&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-React-42B883?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/-Next.js-42B883?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Vue-42B883?style=flat&logo=Vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Django-42B883?style=flat&logo=django&logoColor=white" /> 
 
 <!---
+Angular
+<img src="https://img.shields.io/badge/-Angular-42B883?style=flat&logo=angular&logoColor=white" /> 
 Fast API
 <img src="https://img.shields.io/badge/-FastAPI-50B252?style=flat&logo=fastapi&logoColor=white" />
 --->
