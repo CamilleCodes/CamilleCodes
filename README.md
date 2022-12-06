@@ -14,9 +14,11 @@ FCCB00
 oracle
 --->
 
-<img src="https://img.shields.io/badge/-React-42B883?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/-Next.js-42B883?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Vue-42B883?style=flat&logo=Vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Django-42B883?style=flat&logo=django&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-React-42B883?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/-Next.js-42B883?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Django-42B883?style=flat&logo=django&logoColor=white" /> 
 
 <!---
+Vue
+<img src="https://img.shields.io/badge/-Vue-42B883?style=flat&logo=Vue.js&logoColor=white" /> 
 Angular
 <img src="https://img.shields.io/badge/-Angular-42B883?style=flat&logo=angular&logoColor=white" /> 
 Fast API
