@@ -14,6 +14,8 @@ FCCB00
 oracle
 --->
 
+<img src="https://img.shields.io/badge/-Scikit%20Learn-136414?style=flat&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/-Keras-136414?style=flat&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/-Open%20CV-136414?style=flat&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/-TensorFlow-136414?style=flat&logo=tensorflow&logoColor=white" /> 
+
 <img src="https://img.shields.io/badge/-React-42B883?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/-Next.js-42B883?style=flat&logo=next.js&logoColor=white" />
 
 <!---
@@ -26,8 +28,6 @@ Django
 Fast API
 <img src="https://img.shields.io/badge/-FastAPI-50B252?style=flat&logo=fastapi&logoColor=white" />
 --->
-
-<img src="https://img.shields.io/badge/-Scikit%20Learn-136414?style=flat&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/-Keras-136414?style=flat&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/-Open%20CV-136414?style=flat&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/-TensorFlow-136414?style=flat&logo=tensorflow&logoColor=white" /> 
 
 #### Databases
 
